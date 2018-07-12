@@ -22,14 +22,14 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 * Example:*
 
-		`Short and descriptive example bug report title`
+		` Short and descriptive example bug report title `
 
 	A summary of the issue and the browser/OS environment in which it occurs. If suitable, include the steps required to reproduce the bug.
 
-		```1. This is the first step 
+		``` 1. This is the first step 
 		2. This is the second step 
 		3. Further steps, etc. 
-		<url> - a link to the reduced test case```
+		<url> - a link to the reduced test case ```
 
 Any other information you want to share that is relevant to the issue being reported. This might include the lines of code that you have identified as causing the bug, and potential solutions (and your opinions on their merits).
 
@@ -49,29 +49,29 @@ Follow this process if you'd like your work considered for inclusion in the proj
 
 1. Fork the project, clone your fork, and configure the remotes: 
 
-		```bash # Clone your fork of the repo into the current directory git clone https://github.com/<your-username>/<repo-name> # Navigate to the newly cloned directory cd <repo-name> # Assign the original repo to a remote called "upstream" git remote add upstream https://github.com/<upstream-owner>/<repo-name>```
+		``` bash # Clone your fork of the repo into the current directory git clone https://github.com/<your-username>/<repo-name> # Navigate to the newly cloned directory cd <repo-name> # Assign the original repo to a remote called "upstream" git remote add upstream https://github.com/<upstream-owner>/<repo-name> ```
 
 2. If you cloned a while ago, get the latest changes from upstream: 
 
-		```bash git checkout <dev-branch> git pull upstream <dev-branch>```
+		``` bash git checkout <dev-branch> git pull upstream <dev-branch> ```
 
 3. Create a new topic branch (off the main project development branch) to contain your feature, change, or fix:
 
-		```bash git checkout -b <topic-branch-name>```
+		``` bash git checkout -b <topic-branch-name> ```
 
 4. Commit your changes in logical chunks. Please adhere to these git commit message guidelines or your code is unlikely be merged into the main project. Use Git's interactive rebase feature to tidy up your commits before making them public.
 
 5. Locally merge (or rebase) the upstream development branch into your topic branch:
 
-		```bash git pull [--rebase] upstream <dev-branch>```
+		``` bash git pull [--rebase] upstream <dev-branch> ```
 
 6. Push your topic branch up to your fork: 
 
-		```bash git push origin <topic-branch-name>```
+		``` bash git push origin <topic-branch-name> ```
 
 7. Open a Pull Request with a clear title and description. 
 
-### IMPORTANT:### By submitting a patch, you agree to allow the project owner to license your work under the same license as that used by the project.
+### IMPORTANT: ### By submitting a patch, you agree to allow the project owner to license your work under the same license as that used by the project.
 
 Portions of  text can be found at FabScanPi .
 
