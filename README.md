@@ -1,4 +1,4 @@
-#Welcome to The Hive  Add-On Software!
+# Welcome to The Hive  Add-On Software!
 
 The Hive is a free and open source add-on grid software  application for “Go BB Design” program. Available as a native application for Android and Windows operating systems, The Hive is a C++ add-on application that is presented through a GUI which will also run through game engine and on most common processor architectures.  Created in 2018 by a group of like minded programmers, “Go BB Design's” The Hive is a project run by The CherryWood personnel and developed by volunteers located around the world. It is designed to be a simple grid system that requires the user or visual hardware to take in measurements creating a grid, adjusting the grid by filling in the grid(s) space with material measurements inputted into the system to create the parameters of whatever space is available in grid(s) needing to be filled. Simply put, any adjustments added to the empty grid space, adjusts the parameters of  the “fill space” given by the user's original inputs.
 
@@ -6,15 +6,15 @@ While The Hive is an add-on, it functions very well as a standard grid applicati
 
 The Hive can be used as a grid utilizing three (3) inch increments that may or may not require the final touches from a CAD program if utilized the design format or transitioned to units in a game platform. The geometry of the grid is dictated by the measurements or the dimensions of the filler being used.
 
-##Getting Started
+## Getting Started
 
 The  Hive developers work hard to make it support a large range of devices and operating systems. We look to provide final as well as development builds. To get started, head over to the downloads section and simply select (if available, and if not create) the platform that you want to install it on. A quick start guide to help you get acquainted with The Hive, will be available in our wiki.
 
-##How to Contribute
+## How to Contribute
 
 The  Hive is created by users for users and we welcome every contribution. There are no highly paid developers or poorly paid support personnel. There are only users who have seen a problem and done their best to fix it. This means The Hive will always need the contributions of users like you. 
 
-##How can you get involved?:
+## How can you get involved?:
 
 * Coding: Developers can help The Hive by fixing a bug, adding new features, making our technology smaller and faster and making development easier for others. The Hive's code-base consists mainly of C++.  For more information, please have a look at our Contributing Guide.
 
@@ -36,11 +36,11 @@ No problem! There are other ways to help “Go BB Design” The Hive.
 
 * Buy “Go BB Design” merchandise: Purchasing “Go BB Design” gear helps just as much as a donation, and you get something in return! Checkout our store for “Go BB Design” branded gear. We regularly add new products so check back often.
 
-##Building
+## Building
 
 “Go BB Design” The Hive uses Visual Studios as it's building system but instructions are highly dependent on your operating system and target platform. 
 
- ##Acknowledgments 
+ ## Acknowledgments 
 
 “Go BB Design” The Hive couldn't exist without:
 
