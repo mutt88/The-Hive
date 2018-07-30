@@ -1,10 +1,10 @@
 # Welcome to The Hive  Add-On Software!
 
-The Hive is a free and open source add-on grid software  application for “Go BB Design” program. Available as a native application for Android and Windows operating systems, The Hive is a C++ add-on application that is presented through a GUI which will also run through game engine and on most common processor architectures.  Created in 2018 by a group of like minded programmers, “Go BB Design's” The Hive is a project run by The CherryWood personnel and developed by volunteers located around the world. It is designed to be a simple grid system that requires the user or visual hardware to take in measurements creating a grid, adjusting the grid by filling in the grid(s) space with material measurements inputted into the system to create the parameters of whatever space is available in grid(s) needing to be filled. Simply put, any adjustments added to the empty grid space, adjusts the parameters of  the “fill space” given by the user's original inputs.
+The Hive is a free and open source add-on software  application, designed to highlight the Designers represented in “Go BB Design” program. Available as a native application for Android and Windows operating systems, The Hive is a C++ add-on application that is presented through a GUI which will also run through game engine and on most common processor architectures.  Creation of the original program started in 2018 by a group of like minded programmers, “Go BB Design's” The Hive is a project run by The CherryWood personnel and developed by volunteers located around the world. It is designed to be a unique library system that requires the user or visual hardware to swipe through a list of designers represented, allowing the library cover the best attributes of designers filtered in the users search inquiries. Simply put, the library filters down the location, of the project, or the user's location, by the designer's style of design or the materials they carry calculated in the user's preferences.
 
-While The Hive is an add-on, it functions very well as a standard grid application for your computer, it should be designed to be the perfect companion for upcoming AR &VR platform technology. Depending on the application it can be utilized to enhance a user's AR or VR experience.
+While The Hive is an add-on, it functions very well as a standard library application for your computer, it should be designed to be the perfect companion for upcoming AR &VR platform technology. Depending on the application it can be utilized to enhance a user's AR or VR experience.
 
-The Hive can be used as a grid utilizing three (3) inch increments that may or may not require the final touches from a CAD program if utilized the design format or transitioned to units in a game platform. The geometry of the grid is dictated by the measurements or the dimensions of the filler being used.
+The Hive can be used as a library utilizing, atleast three (3) attributes that are highlighted in the Designers attributes and talents: (a) Style of Design, (b) Materials the Designer has at hand, and (c) location to the project (i.e., the user maybe looking to design a project in another locatio to their current location, giving them the access to the local talents of that location).
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ The  Hive is created by users for users and we welcome every contribution. There
 
 ## How can you get involved?:
 
-* Coding: Developers can help The Hive by fixing a bug, adding new features, making our technology smaller and faster and making development easier for others. The Hive's code-base consists mainly of C++.  For more information, please have a look at our Contributing Guide.
+* Coding: Developers can help The Hive by fixing a bug, adding new features, making our technology smaller and faster and making development easier for others. Currently, The Hive's code-base consists mainly of C++.  For more information, please have a look at our Contributing Guide.
 
 * Helping users: Our support process relies on enthusiastic contributors like you to help others get the most out of The Hive. The #1 priority is always answering questions in our support forums. Everyday new people discover “Go BB Design”, and everyday they are virtually guaranteed to have questions.
 
